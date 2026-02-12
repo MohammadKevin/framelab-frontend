@@ -49,7 +49,7 @@ export default function Footer() {
                 <div className="max-w-7xl mx-auto px-8 py-6 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-gray-400">
                     <span>© {new Date().getFullYear()} FrameLab. All rights reserved.</span>
                     <span>
-                        Built with ❤️ by <a className="hover:text-white transition" href="#">Danendra | Kevin</a>
+                        Built with ❤️ by <a className="hover:text-white transition" href="#">Danendra</a>
                     </span>
                 </div>
             </div>
