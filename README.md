@@ -18,10 +18,10 @@ A showcase website and booking platform for FrameLab photography studio, featuri
 ---
 
 ## ✨ Key Features
-- ⚡ **High-resolution masonry photo gallery with lightbox viewer**: High-resolution masonry photo gallery with lightbox viewer
-- ⚡ **Studio package selection and photo shoot time-slot reservation**: Studio package selection and photo shoot time-slot reservation
-- ⚡ **Admin portal for managing gallery uploads and booking schedules**: Admin portal for managing gallery uploads and booking schedules
-- ⚡ **Fluid page animations powered by Framer Motion**: Fluid page animations powered by Framer Motion
+- High-resolution masonry photo gallery with lightbox viewer
+- Studio package selection and photo shoot time-slot reservation
+- Admin portal for managing gallery uploads and booking schedules
+- Fluid page animations powered by Framer Motion
 
 ---
 
