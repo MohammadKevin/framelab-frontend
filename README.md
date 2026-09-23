@@ -12,12 +12,12 @@
 
 ---
 
-## 📌 Overview
+## Overview
 A showcase website and booking platform for FrameLab photography studio, featuring dynamic photo portfolios, session scheduling, and admin gallery management.
 
 ---
 
-## ✨ Key Features
+## Key Features
 - High-resolution masonry photo gallery with lightbox viewer
 - Studio package selection and photo shoot time-slot reservation
 - Admin portal for managing gallery uploads and booking schedules
@@ -25,7 +25,7 @@ A showcase website and booking platform for FrameLab photography studio, featuri
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Framework**: Next.js
 - **Language**: TypeScript
 - **Animation**: Framer Motion
@@ -33,7 +33,7 @@ A showcase website and booking platform for FrameLab photography studio, featuri
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```text
 framelab-frontend/
 ├── app/
@@ -44,7 +44,7 @@ framelab-frontend/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 Make sure you have the required runtimes and tools installed on your machine:
@@ -61,7 +61,7 @@ npm run dev
 
 ---
 
-## 👤 Author
+## Author
 **Mohammad Kevin Arif Rudianto**
 - **GitHub:** [@MohammadKevin](https://github.com/MohammadKevin)
 - **Portfolio:** [portfolio-mohammadkevin.vercel.app](https://portfolio-mohammadkevin.vercel.app)
@@ -70,9 +70,9 @@ npm run dev
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 <div align="center">
-⭐️ If you found this repository useful, please consider giving it a star!
+If you found this repository useful, please consider giving it a star!
 </div>
